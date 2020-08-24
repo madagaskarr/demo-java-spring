@@ -1,4 +1,4 @@
-package model;
+package io.tigranes.model;
 
 import javax.persistence.*;
 import java.util.Set;
